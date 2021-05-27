@@ -5,4 +5,4 @@
 -creates summary that consists of n top-scored sentences <br>
 -shows most common words and n-grams on graphs
 
-### Created with:  nltk,newspaper,pandas,re,matplotlib
+### Created with:  Python,nltk,newspaper,pandas,re,matplotlib
